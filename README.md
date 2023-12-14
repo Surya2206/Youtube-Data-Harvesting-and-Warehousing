@@ -23,7 +23,10 @@ SQLAlchemy to interact with the SQL database.
 * Display data in the Streamlit app: Finally, you can display the retrieved data in the Streamlit app. Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
 Usage:
+
 1.Launch the Streamlit app: streamlit run mainfile.py
+
 2.Run the mainfile.py script, make sure you have main and sql files in the same folder.
+
 3.The app will start and open in your browser. You can explore the harvested YouTube data and visualize the results.
 
