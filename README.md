@@ -1,6 +1,6 @@
-## YouTube-Data-Harvesting-and-Warehousing.
-
-# Problem Statement: 
+# YouTube-Data-Harvesting-and-Warehousing.
+ 
+## Problem Statement: 
 
 The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels.
 
@@ -24,7 +24,7 @@ SQLAlchemy to interact with the SQL database.
 
 * Display data in the Streamlit app: Finally, you can display the retrieved data in the Streamlit app. Overall, this approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
-# Usage:
+## Usage:
 
 1.Launch the Streamlit app: streamlit run mainfile.py
 
